@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Quorum.aternos.me",
-    "port": 40994,
+    "port": 16928,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
